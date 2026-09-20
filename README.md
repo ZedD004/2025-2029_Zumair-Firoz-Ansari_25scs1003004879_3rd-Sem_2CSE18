@@ -1,7 +1,7 @@
 # AI-Based Student Performance Predictor using C++
 
-**Student:** HARSHIT SONI  
-**Roll No.:** 25SCS1003004693  
+**Student:** ZUMAIR FIROZ ANSARI 
+**Roll No.:** 25SCS1003004879
 **Program:** B.Tech (Computer Science & Engineering - Artificial Intelligence)  
 **University:** IILM University, Greater Noida, U.P.
 

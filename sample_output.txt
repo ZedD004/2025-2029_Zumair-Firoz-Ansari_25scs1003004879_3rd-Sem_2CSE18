@@ -1,0 +1,21 @@
+==============================================
+   AI-Based Student Performance Predictor
+   C++17 | k-Nearest Neighbours (k-NN)
+==============================================
+Show training dataset? (y/n): n
+
+Enter student details:
+Attendance (0-100): 79
+Daily study hours (0-12): 4.2
+Previous marks (0-100): 76
+Assignments completed % (0-100): 82
+
+Nearest neighbours:
+1. High    distance=0.143
+2. Medium  distance=0.181
+3. High    distance=0.304
+
+Predicted Performance Category: High
+Suggestion: maintain current habits and attempt advanced work.
+
+Note: This is an educational prototype, not an official academic decision system.
